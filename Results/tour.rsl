@@ -1,0 +1,6 @@
+tour.clp differences are as follows:
+    13: places->Sentosa Zoo Chinatown Mustafa
+    13: (Zoo Sentosa Chinatown Mustafa) (0.5 0.5 0.5 0.5) (Rank 92 84.5 80 65)
+    14: CLIPS> (dribble-off)
+    14: places->Zoo Sentosa Chinatown Mustafa
+   Files do not have the same # of lines

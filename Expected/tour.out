@@ -1,0 +1,14 @@
+TRUE
+CLIPS> (run)
+Time?
+day
+Country?
+India
+Budget?
+3
+Travelling with?
+family
+Activity?
+landmarks
+places->Sentosa Zoo Chinatown Mustafa
+CLIPS> (dribble-off)

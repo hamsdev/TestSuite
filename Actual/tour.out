@@ -1,0 +1,15 @@
+TRUE
+CLIPS> (run)
+Time?
+day
+Country?
+India
+Budget?
+3
+Travelling with?
+family
+Activity?
+landmarks
+(Zoo Sentosa Chinatown Mustafa) (0.5 0.5 0.5 0.5) (Rank 92 84.5 80 65)
+places->Zoo Sentosa Chinatown Mustafa
+CLIPS> (dribble-off)
